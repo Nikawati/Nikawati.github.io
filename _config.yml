@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ocu Kampar
+title:            Nikawati
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              http://nikawati.github.io
 
 
 # Jekyll configuration
@@ -27,13 +27,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
+  name: Nikawati
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Mahasiswa UIN SUSKA Riau Jurusan sistem Informasi"
   email: 
   disqus-shortname: 
   twitter: jazma101 #username
-  facebook: deactivate.py #username
+  facebook: Nika Wati #username
   google:
     plus: kampar #username
     analytics: 
@@ -41,7 +41,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: Nikawati #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
