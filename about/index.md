@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About the Theme
+layout: Nikawati
+title: Mahasiswa yang menyukai Seni 
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,15 +10,20 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Mahasiswa Universiras Islam Negri Suska Riau, Fakultas Sains Dan Teknologi, Jurusan Sistem Informasi 
+Nama  : Nikawati
+Nim   : 11353204547
+Asal  : Sungai Guntung Kec.Kateman Kab. IndraGiri Hilir Prov.Riau
+Hobby : Menggambar
 
-## Minimal Mistakes is all about:
+## Sila kan anda yang mempunyai Waktu luang Untuk mengunjungi ini :
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
+* Website UIN SUSUKA        : http://uin-suska.ac.id/
+* Website Sistem Informasi  : http://sif.uin-suska.ac.id/
+* Blogger                   : http://nikawati95.blogspot.com/
+* Facebook                  : Nika Wati (https://www.facebook.com/nicka.cyngortu)
+* Instagram                 : @Nikawati95
+* 
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
 * Support for Disqus Comments
 
