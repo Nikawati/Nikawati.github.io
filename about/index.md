@@ -12,10 +12,10 @@ image:
 ---
 
 Mahasiswa Universiras Islam Negri Suska Riau, Fakultas Sains Dan Teknologi, Jurusan Sistem Informasi 
-Nama  : Nikawati
-Nim   : 11353204547
-Asal  : Sungai Guntung Kec.Kateman Kab. IndraGiri Hilir Prov.Riau
-Hobby : Menggambar
+* Nama  : Nikawati
+* Nim   : 11353204547
+* Asal  : Sungai Guntung Kec.Kateman Kab. IndraGiri Hilir Prov.Riau
+* Hobby : Menggambar
 
 ## Sila kan anda yang mempunyai Waktu luang Untuk mengunjungi ini :
 
