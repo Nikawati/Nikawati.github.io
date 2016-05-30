@@ -28,31 +28,23 @@ kramdown:
 # Site owner
 owner:
   name: Nikawati
-  avatar: bio-photo.jpg
+  avatar: Nikaa.jpg
   bio: "Mahasiswa UIN SUSKA Riau Jurusan sistem Informasi"
   email: 
   disqus-shortname: 
   twitter: jazma101 #username
   facebook: Nika Wati #username
   google:
-    plus: kampar #username
+    plus: Nikawati #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
   github: Nikawati #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
+
+  instagram: @Nikawati95 #username
+ 
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
