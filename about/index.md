@@ -19,10 +19,10 @@ Hobby : Menggambar
 
 ## Sila kan anda yang mempunyai Waktu luang Untuk mengunjungi ini :
 
-* Website UIN SUSUKA        : http://uin-suska.ac.id/
-* Website Sistem Informasi  : http://sif.uin-suska.ac.id/
-* Blogger                   : http://nikawati95.blogspot.com/
-* Facebook                  : Nika Wati (https://www.facebook.com/nicka.cyngortu)
+* Website UIN SUSUKA        : [http://uin-suska.ac.id/]
+* Website Sistem Informasi  : [http://sif.uin-suska.ac.id/]
+* Blogger                   : [http://nikawati95.blogspot.com/]
+* Facebook                  : Nika Wati [(https://www.facebook.com/nicka.cyngortu)]
 * Instagram                 : @Nikawati95
 * 
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
